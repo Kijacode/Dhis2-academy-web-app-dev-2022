@@ -1,0 +1,9 @@
+# DHIS2 Platform
+node_modules
+.d2
+src/locales
+build
+
+# ## VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
